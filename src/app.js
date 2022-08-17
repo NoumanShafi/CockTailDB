@@ -10,7 +10,7 @@ export default function App() {
     <>
       <Navebar />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/NoumanShafi.github.io/CockTailDB" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/cocktailsdetails/:id" element={<CocktailsDetails/>} />
         <Route path="*" element={<Error />} />
