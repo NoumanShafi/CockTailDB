@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CockTailDB/static/css/main.3b9c6c99.css",
+    "main.js": "/CockTailDB/static/js/main.1968d940.js",
+    "static/media/logo.svg": "/CockTailDB/static/media/logo.5bb3b58efe44c44cee437fa462266c08.svg",
+    "index.html": "/CockTailDB/index.html",
+    "main.3b9c6c99.css.map": "/CockTailDB/static/css/main.3b9c6c99.css.map",
+    "main.1968d940.js.map": "/CockTailDB/static/js/main.1968d940.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b9c6c99.css",
+    "static/js/main.1968d940.js"
+  ]
+}
